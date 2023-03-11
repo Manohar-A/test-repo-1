@@ -8,3 +8,7 @@
 async def func():
   pass
 ```
+
+### Tasks of pull request / issue
+- [ ] This is task 1
+- [ ] This is task 2
